@@ -1,3 +1,2 @@
 # textfortext
-
-# by bob
+# ggot it!

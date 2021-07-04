@@ -1,5 +1,5 @@
 public class test{
-	public void add(){
-		
+	public static void main(String[]args){
+		//got it!
 	}
 }
